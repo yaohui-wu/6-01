@@ -1,2 +1,1 @@
-# Massachusetts Institute of Technology
-## 6.00.1x Introduction to Computer Science and Programming Using Python, 2024
+# MIT 6.01x: Introduction to Computer Science and Programming
