@@ -1,5 +1,4 @@
-# MIT 6.01
-## Introduction to Computer Science and Programming Using Python
+# MIT 6.01 Introduction to Computer Science and Programming Using Python
 [MITx 6.00.1x: Introduction to Computer Science
 and Programming Using Python][link]
 
